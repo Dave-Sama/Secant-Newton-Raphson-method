@@ -19,11 +19,11 @@ With each iteration of the loop, a better and better approximation is obtained.
 it is a good method when we know the derivative of the function.</br>
 
 # The Newton Rapson method is:
-1 Guess a point close to the desired root.</br>
-2 Calculate the slope of the tangent to the function at this point,
-  This is the derivative of the function at that point.</br>
-3 Calculate the tangent equation.</br>
-4 Find the tangent root, i.e. the point where the tangent intersects the x-axis.</br></br>
+1. Guess a point close to the desired root.</br>
+2. Calculate the slope of the tangent to the function at this point,
+   This is the derivative of the function at that point.</br>
+3. Calculate the tangent equation.</br>
+4. Find the tangent root, i.e. the point where the tangent intersects the x-axis.</br></br>
 
 # Calculate Xr+1:</br>
 ![Xr+1](https://i.ibb.co/zrQw6kC/new.jpg)
